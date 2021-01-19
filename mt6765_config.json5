@@ -1,0 +1,6 @@
+{
+    "hw_code": 0x766,
+    "watchdog_address": 0x10007000,
+    "var_0": 0x2C,
+    "var_1": 0x25
+}
